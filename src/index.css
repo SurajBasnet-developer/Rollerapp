@@ -1,13 +1,11 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.button {
+  background-color: rgb(194, 13, 13);
+  color: wheat;
+  padding: 16px 30px;
+  text-align: center;
+  font-size: 24px;
+  border: none;
+  margin: 4px;
+  border-radius: 5px;
+  cursor: pointer;
 }
