@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Rollerapp/static/css/main.ac9cd84d.css",
+    "main.js": "/Rollerapp/static/js/main.cf61a506.js",
+    "static/media/6.png": "/Rollerapp/static/media/6.7314092cf2e027f0861f.png",
+    "static/media/5.png": "/Rollerapp/static/media/5.b0b1de7586254b09e0c6.png",
+    "static/media/4.png": "/Rollerapp/static/media/4.9c77d96dce9d714afccd.png",
+    "static/media/2.png": "/Rollerapp/static/media/2.7b2573a587b14babc4a8.png",
+    "static/media/3.png": "/Rollerapp/static/media/3.6f00af050bff1470d734.png",
+    "static/media/1.png": "/Rollerapp/static/media/1.2b4a1acc1ae8dc484445.png",
+    "index.html": "/Rollerapp/index.html",
+    "main.ac9cd84d.css.map": "/Rollerapp/static/css/main.ac9cd84d.css.map",
+    "main.cf61a506.js.map": "/Rollerapp/static/js/main.cf61a506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9cd84d.css",
+    "static/js/main.cf61a506.js"
+  ]
+}
